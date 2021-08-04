@@ -1,0 +1,26 @@
+{
+  "name": "hw1_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuslanBlokhin/hw1_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuslanBlokhin/hw1_node/issues"
+  },
+  "homepage": "https://github.com/RuslanBlokhin/hw1_node#readme",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  }
+}
